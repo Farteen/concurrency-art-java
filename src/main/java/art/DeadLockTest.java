@@ -1,3 +1,5 @@
+package art;
+
 public class DeadLockTest {
 
     private static String A = "A";

@@ -1,3 +1,5 @@
+package art;
+
 public class ContextSwitchTest {
 
     private static final long count = 100000l;
